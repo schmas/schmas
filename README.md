@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmas&label=Profile%20views&color=0e75b6&style=flat" alt="schmas" /> </p>
 
-- 🔭 I’m currently working on [@mercadolibre](www.mercadolivre.com.br)
+- 🔭 I’m currently working on [@mercadolibre](https://www.mercadolivre.com.br)
 
 - 🌱 I’m currently learning **react, react-testing-library, react-query, react-hook-form, styled-components, kotlin**
 
