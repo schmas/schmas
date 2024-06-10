@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, react-testing-library, react-query, react-hook-form, styled-components, kotlin**
 
-- 📫 How to reach me **github@xmas.mozmail.com**
+- 📫 How to reach me **github.shorter550@passmail.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
