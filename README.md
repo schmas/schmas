@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schmas&label=Profile%20views&color=0e75b6&style=flat" alt="schmas" /> </p>
 
-- 🔭 I’m currently working on [@clevertech](https://clevertech.biz/)
+- 🔭 I’m currently working on [@lumenalta](https://lumenalta.com/)
 
 - 🌱 I’m currently learning **react, react-testing-library, react-query, react-hook-form, styled-components, kotlin**
 
-- 📫 How to reach me **schmas+gh@pm.me**
+- 📫 How to reach me **github@abbrm.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
